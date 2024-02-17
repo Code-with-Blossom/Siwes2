@@ -4,9 +4,6 @@ body {
     padding: 0;
     box-sizing: border-box;
 }
-img{
-    border-radius: 50px;
-}
 nav{
     background-color: #333;
     padding: 10px;
